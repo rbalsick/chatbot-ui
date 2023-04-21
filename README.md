@@ -18,6 +18,11 @@ Expect frequent improvements.
 - [ ] "Bots"
 
 ## Deploy
+**DigitalOcean**
+
+Host your own live version of Chatbot UI with DigitalOcean.
+
+[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/mckaywrigley/chatbot-ui.git)
 
 **Vercel**
 
